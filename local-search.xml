@@ -4,11 +4,11 @@
   
   
   <entry>
-    <title>GAdaBoost</title>
+    <title>GAdaBoost: An Efficient and Robust AdaBoost Algorithm Based on Granular-Ball Structure</title>
     <link href="/2025/12/19/GAdaBoost/"/>
     <url>/2025/12/19/GAdaBoost/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h2 id="Publication"><a href="#Publication" class="headerlink" title="Publication"></a>Publication</h2><p><strong>Knowledge-Based Systems, 2025</strong></p><h2 id="Abstarct"><a href="#Abstarct" class="headerlink" title="Abstarct"></a>Abstarct</h2><p>Adaptive Boosting (AdaBoost) faces significant challenges posed by label noise, especially in multiclass classification tasks. Inspired by granular computing, this paper proposes granular adaptive boosting (GAdaBoost), a novel two-stage framework comprising a data granulation stage and an adaptive boosting stage, to enhance efficiency and robustness under noisy conditions. Experimental results demonstrate that the proposed approach achieves superior robustness and efficiency compared with existing methods.</p><h2 id="Architeture"><a href="#Architeture" class="headerlink" title="Architeture"></a>Architeture</h2><img src="/2025/12/19/GAdaBoost/pic/GAdaBoost.png" class="" title="GAdaBoost Architecture"><h2 id="Source"><a href="#Source" class="headerlink" title="Source"></a>Source</h2><p>📄 Paper Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512500944X">KBS</a><br>🐙 Code Link: <a href="https://github.com/CherylTse/GAdaBoost">GAdaBoost</a></p>]]></content>
     
     
     
@@ -17,13 +17,19 @@
   
   
   <entry>
-    <title>GBABS</title>
+    <title>Approximate Borderline Sampling using Granular-Ball for Classification Tasks</title>
     <link href="/2025/12/19/GBABS/"/>
     <url>/2025/12/19/GBABS/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<h2 id="Publication"><a href="#Publication" class="headerlink" title="Publication"></a>Publication</h2><p><strong>IEEE International Conference on Data Engineering (ICDE) 2025</strong></p><h2 id="Abstarct"><a href="#Abstarct" class="headerlink" title="Abstarct"></a>Abstarct</h2><p>This paper proposes an approximate borderline sampling method using granular-balls for classification tasks. First, a restricted diffusion-based GB generation (RD-GBG) method is proposed to prevent GB overlaps through constrained expansion. Second, based on the concept of heterogeneous nearest neighbors, a GB-based approximate borderline sampling (GBABS) method is proposed, which is the first general sampling method capable of both borderline sampling and improving the quality of class noise datasets.</p><h2 id="Architeture"><a href="#Architeture" class="headerlink" title="Architeture"></a>Architeture</h2><img src="/2025/12/19/GBABS/pic/GBABS.png" class="" title="GBABS Architecture"><h2 id="Source"><a href="#Source" class="headerlink" title="Source"></a>Source</h2><p>📄 Paper Link: <a href="https://ieeexplore.ieee.org/document/10430455/">IEEE ICDE</a><br>🐙 Code Link: <a href="https://github.com/CherylTse/GBABS">GBABS</a></p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>paper</tag>
+      
+    </tags>
     
   </entry>
   
@@ -34,7 +40,7 @@
     <link href="/2025/12/18/GBG/"/>
     <url>/2025/12/18/GBG/</url>
     
-    <content type="html"><![CDATA[<h2 id="Abstarct"><a href="#Abstarct" class="headerlink" title="Abstarct"></a>Abstarct</h2><p>Granular ball computing (GBC) is an efficient, robust, and scalable learning method that has become a popular research topic of granular computing. This paper proposes GBG++, a fast and stable granular ball generation method based on the attention mechanism. The proposed method only needs to calculate distances from the data-driven center to undivided samples when splitting each granular ball, significantly improving both stability and efficiency compared to existing GBG methods.</p><h2 id="Architeture"><a href="#Architeture" class="headerlink" title="Architeture"></a>Architeture</h2><img src="/2025/12/18/GBG/pic/GBG++.png" class="" title="GBG++ Architecture"><h2 id="Source"><a href="#Source" class="headerlink" title="Source"></a>Source</h2><p>📄 <a href="https://ieeexplore.ieee.org/document/10430455/">Paper Link</a><br>🐙 <a href="https://github.com/CherylTse/GBG-plusplus">Code Link</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Publication"><a href="#Publication" class="headerlink" title="Publication"></a>Publication</h2><p><strong>IEEE Transactions on Emerging Topics in Computational Intelligence, 2024</strong></p><h2 id="Abstarct"><a href="#Abstarct" class="headerlink" title="Abstarct"></a>Abstarct</h2><p>Granular ball computing (GBC) is an efficient, robust, and scalable learning method that has become a popular research topic of granular computing. This paper proposes GBG++, a fast and stable granular ball generation method based on the attention mechanism. The proposed method only needs to calculate distances from the data-driven center to undivided samples when splitting each granular ball, significantly improving both stability and efficiency compared to existing GBG methods.</p><h2 id="Architeture"><a href="#Architeture" class="headerlink" title="Architeture"></a>Architeture</h2><img src="/2025/12/18/GBG/pic/GBG++.png" class="" title="GBG++ Architecture"><h2 id="Source"><a href="#Source" class="headerlink" title="Source"></a>Source</h2><p>📄 Paper Link: <a href="https://ieeexplore.ieee.org/document/10430455/">IEEE TETCI</a><br>🐙 Code Link: <a href="https://github.com/CherylTse/GBG-plusplus">GBG-plusplus</a></p>]]></content>
     
     
     
