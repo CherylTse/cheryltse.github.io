@@ -4,13 +4,100 @@
   
   
   <entry>
+    <title>Adaptive Three-Way Spam Filter Based on Similarity Measurement</title>
+    <link href="/2025/12/19/SpamFilter/"/>
+    <url>/2025/12/19/SpamFilter/</url>
+    
+    <content type="html"><![CDATA[<p><strong>计算机研究与发展, 2019</strong></p><span id="more"></span><h2 id="Abstarct"><a href="#Abstarct" class="headerlink" title="Abstarct"></a>Abstarct</h2><p>This paper presents an adaptive three-way spam filter based on similarity measurement. By combining three-way decision theory with similarity-based learning, the proposed filter provides an effective approach for spam email classification. The adaptive mechanism allows the system to dynamically adjust its decision boundaries based on the characteristics of incoming emails, improving both accuracy and robustness in spam detection tasks.</p><h2 id="Source"><a href="#Source" class="headerlink" title="Source"></a>Source</h2><p>📄 Paper Link: <a href="https://crad.ict.ac.cn/article/cstr/32373.14.issn1000-1239.2019.20180793">计研发</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>publication</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>paper</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>A Novel Three-way decision model with decision-theoretic rough sets using utility theory</title>
+    <link href="/2025/12/19/3WD-utility/"/>
+    <url>/2025/12/19/3WD-utility/</url>
+    
+    <content type="html"><![CDATA[<p><strong>Knowledge-Based Systems, 2018</strong></p><span id="more"></span><h2 id="Abstarct"><a href="#Abstarct" class="headerlink" title="Abstarct"></a>Abstarct</h2><p>This paper proposes a novel three-way decision model that integrates decision-theoretic rough sets with utility theory. By incorporating utility functions into the decision-making process, the model provides a more flexible and comprehensive framework for handling uncertainty in classification tasks. The approach extends traditional three-way decision models by considering the utility of different decision outcomes, enabling more nuanced and context-aware decision-making strategies.</p><h2 id="Source"><a href="#Source" class="headerlink" title="Source"></a>Source</h2><p>📄 Paper Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S095070511830323X">KBS</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>publication</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>paper</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Three-Way Hybrid Sampling Using Granular Balls for Imbalanced Classiﬁcation</title>
+    <link href="/2025/12/19/TWHGBS/"/>
+    <url>/2025/12/19/TWHGBS/</url>
+    
+    <content type="html"><![CDATA[<p><strong>International Joint Conference on Rough Sets (IJCRS), 2024</strong></p><span id="more"></span><h2 id="Abstarct"><a href="#Abstarct" class="headerlink" title="Abstarct"></a>Abstarct</h2><p>This paper proposes a three-way hybrid sampling method using granular balls to address imbalanced classification problems. By integrating three-way decision theory with granular-ball computing, the method provides an effective solution for handling class imbalance while maintaining classification performance. The hybrid sampling strategy combines both oversampling and undersampling techniques based on granular-ball structure, offering improved robustness in imbalanced learning scenarios.</p><h2 id="Architeture"><a href="#Architeture" class="headerlink" title="Architeture"></a>Architeture</h2><h2 id="Source"><a href="#Source" class="headerlink" title="Source"></a>Source</h2><p>📄 Paper Link: <a href="https://link.springer.com/chapter/10.1007/978-3-031-65668-2_7">IJCRS</a><br>🐙 Code Link: <a href="https://github.com/CherylTse/IGBS">TWHGBS</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>publication</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>paper</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>GAdaBoost: An Efficient and Robust AdaBoost Algorithm Based on Granular-Ball Structure</title>
     <link href="/2025/12/19/GAdaBoost/"/>
     <url>/2025/12/19/GAdaBoost/</url>
     
-    <content type="html"><![CDATA[<h2 id="Publication"><a href="#Publication" class="headerlink" title="Publication"></a>Publication</h2><p><strong>Knowledge-Based Systems, 2025</strong></p><h2 id="Abstarct"><a href="#Abstarct" class="headerlink" title="Abstarct"></a>Abstarct</h2><p>Adaptive Boosting (AdaBoost) faces significant challenges posed by label noise, especially in multiclass classification tasks. Inspired by granular computing, this paper proposes granular adaptive boosting (GAdaBoost), a novel two-stage framework comprising a data granulation stage and an adaptive boosting stage, to enhance efficiency and robustness under noisy conditions. Experimental results demonstrate that the proposed approach achieves superior robustness and efficiency compared with existing methods.</p><h2 id="Architeture"><a href="#Architeture" class="headerlink" title="Architeture"></a>Architeture</h2><img src="/2025/12/19/GAdaBoost/pic/GAdaBoost.png" class="" title="GAdaBoost Architecture"><h2 id="Source"><a href="#Source" class="headerlink" title="Source"></a>Source</h2><p>📄 Paper Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512500944X">KBS</a><br>🐙 Code Link: <a href="https://github.com/CherylTse/GAdaBoost">GAdaBoost</a></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>Knowledge-Based Systems, 2025</strong></p><span id="more"></span><h2 id="Abstarct"><a href="#Abstarct" class="headerlink" title="Abstarct"></a>Abstarct</h2><p>Adaptive Boosting (AdaBoost) faces significant challenges posed by label noise, especially in multiclass classification tasks. Inspired by granular computing, this paper proposes granular adaptive boosting (GAdaBoost), a novel two-stage framework comprising a data granulation stage and an adaptive boosting stage, to enhance efficiency and robustness under noisy conditions. Experimental results demonstrate that the proposed approach achieves superior robustness and efficiency compared with existing methods.</p><h2 id="Architeture"><a href="#Architeture" class="headerlink" title="Architeture"></a>Architeture</h2><img src="/2025/12/19/GAdaBoost/pic/GAdaBoost.png" class="" title="GAdaBoost Architecture"><h2 id="Source"><a href="#Source" class="headerlink" title="Source"></a>Source</h2><p>📄 Paper Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S095070512500944X">KBS</a><br>🐙 Code Link: <a href="https://github.com/CherylTse/GAdaBoost">GAdaBoost</a></p>]]></content>
     
     
+    <categories>
+      
+      <category>publication</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>paper</tag>
+      
+    </tags>
     
   </entry>
   
@@ -21,8 +108,14 @@
     <link href="/2025/12/19/GBABS/"/>
     <url>/2025/12/19/GBABS/</url>
     
-    <content type="html"><![CDATA[<h2 id="Publication"><a href="#Publication" class="headerlink" title="Publication"></a>Publication</h2><p><strong>IEEE International Conference on Data Engineering (ICDE) 2025</strong></p><h2 id="Abstarct"><a href="#Abstarct" class="headerlink" title="Abstarct"></a>Abstarct</h2><p>This paper proposes an approximate borderline sampling method using granular-balls for classification tasks. First, a restricted diffusion-based GB generation (RD-GBG) method is proposed to prevent GB overlaps through constrained expansion. Second, based on the concept of heterogeneous nearest neighbors, a GB-based approximate borderline sampling (GBABS) method is proposed, which is the first general sampling method capable of both borderline sampling and improving the quality of class noise datasets.</p><h2 id="Architeture"><a href="#Architeture" class="headerlink" title="Architeture"></a>Architeture</h2><img src="/2025/12/19/GBABS/pic/GBABS.png" class="" title="GBABS Architecture"><h2 id="Source"><a href="#Source" class="headerlink" title="Source"></a>Source</h2><p>📄 Paper Link: <a href="https://ieeexplore.ieee.org/document/10430455/">IEEE ICDE</a><br>🐙 Code Link: <a href="https://github.com/CherylTse/GBABS">GBABS</a></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>IEEE International Conference on Data Engineering (ICDE), 2025</strong></p><span id="more"></span><h2 id="Abstarct"><a href="#Abstarct" class="headerlink" title="Abstarct"></a>Abstarct</h2><p>This paper proposes an approximate borderline sampling method using granular-balls for classification tasks. First, a restricted diffusion-based GB generation (RD-GBG) method is proposed to prevent GB overlaps through constrained expansion. Second, based on the concept of heterogeneous nearest neighbors, a GB-based approximate borderline sampling (GBABS) method is proposed, which is the first general sampling method capable of both borderline sampling and improving the quality of class noise datasets.</p><h2 id="Architeture"><a href="#Architeture" class="headerlink" title="Architeture"></a>Architeture</h2><img src="/2025/12/19/GBABS/pic/GBABS.png" class="" title="GBABS Architecture"><h2 id="Source"><a href="#Source" class="headerlink" title="Source"></a>Source</h2><p>📄 Paper Link: <a href="https://ieeexplore.ieee.org/document/10430455/">IEEE ICDE</a><br>🐙 Code Link: <a href="https://github.com/CherylTse/GBABS">GBABS</a></p>]]></content>
     
+    
+    <categories>
+      
+      <category>publication</category>
+      
+    </categories>
     
     
     <tags>
@@ -40,8 +133,14 @@
     <link href="/2025/12/18/GBG/"/>
     <url>/2025/12/18/GBG/</url>
     
-    <content type="html"><![CDATA[<h2 id="Publication"><a href="#Publication" class="headerlink" title="Publication"></a>Publication</h2><p><strong>IEEE Transactions on Emerging Topics in Computational Intelligence, 2024</strong></p><h2 id="Abstarct"><a href="#Abstarct" class="headerlink" title="Abstarct"></a>Abstarct</h2><p>Granular ball computing (GBC) is an efficient, robust, and scalable learning method that has become a popular research topic of granular computing. This paper proposes GBG++, a fast and stable granular ball generation method based on the attention mechanism. The proposed method only needs to calculate distances from the data-driven center to undivided samples when splitting each granular ball, significantly improving both stability and efficiency compared to existing GBG methods.</p><h2 id="Architeture"><a href="#Architeture" class="headerlink" title="Architeture"></a>Architeture</h2><img src="/2025/12/18/GBG/pic/GBG++.png" class="" title="GBG++ Architecture"><h2 id="Source"><a href="#Source" class="headerlink" title="Source"></a>Source</h2><p>📄 Paper Link: <a href="https://ieeexplore.ieee.org/document/10430455/">IEEE TETCI</a><br>🐙 Code Link: <a href="https://github.com/CherylTse/GBG-plusplus">GBG-plusplus</a></p>]]></content>
+    <content type="html"><![CDATA[<p><strong>IEEE Transactions on Emerging Topics in Computational Intelligence, 2024</strong></p><span id="more"></span><h2 id="Abstarct"><a href="#Abstarct" class="headerlink" title="Abstarct"></a>Abstarct</h2><p>Granular ball computing (GBC) is an efficient, robust, and scalable learning method that has become a popular research topic of granular computing. This paper proposes GBG++, a fast and stable granular ball generation method based on the attention mechanism. The proposed method only needs to calculate distances from the data-driven center to undivided samples when splitting each granular ball, significantly improving both stability and efficiency compared to existing GBG methods.</p><h2 id="Architeture"><a href="#Architeture" class="headerlink" title="Architeture"></a>Architeture</h2><img src="/2025/12/18/GBG/pic/GBG++.png" class="" title="GBG++ Architecture"><h2 id="Source"><a href="#Source" class="headerlink" title="Source"></a>Source</h2><p>📄 Paper Link: <a href="https://ieeexplore.ieee.org/document/10430455/">IEEE TETCI</a><br>🐙 Code Link: <a href="https://github.com/CherylTse/GBG-plusplus">GBG-plusplus</a></p>]]></content>
     
+    
+    <categories>
+      
+      <category>publication</category>
+      
+    </categories>
     
     
     <tags>
@@ -49,19 +148,6 @@
       <tag>paper</tag>
       
     </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2025/12/18/hello-world/"/>
-    <url>/2025/12/18/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
     
   </entry>
   
